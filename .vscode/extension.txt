@@ -1,0 +1,20 @@
+- Apc Customize UI++
+- Auto Close Tag
+- Auto Complete Tag
+- Auto Import
+- Auto Rename Tag
+- Brazilian Portuguese - Code Spell Checker
+- Code Spell Checker
+- Color Highlight
+- Error Lens
+- VS Code ES7+ React/Redux/React-Native/JS snippets
+- ESLint
+- IntelliCode
+- JavaScript (ES6) snippets
+- Live Server
+- Material Icon Theme
+- Origamid Next
+- Prettier Formatter
+- Prisma
+- Tailwind CSS IntelliSense
+- vscode-styled-components
