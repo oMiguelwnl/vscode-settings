@@ -18,3 +18,5 @@
 - Prisma
 - Tailwind CSS IntelliSense
 - vscode-styled-components
+- Simple React Snippets
+
