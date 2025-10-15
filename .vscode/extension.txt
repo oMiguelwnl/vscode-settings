@@ -19,3 +19,6 @@
 - vscode-styled-components
 - Simple React Snippets
 - Path intellisense
+- python
+- Ruff
+- Pylance
